@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Power BI Analyst Business Intelligence Banner" width="100%">
+  <img src="banner-analista-inteligência-de-negócios.png" alt="Power BI Analyst Business Intelligence Banner" width="100%">
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
 ## Descrição do Projeto
-Repositório oficial para versionamento, modelagem e entrega do projeto prático de Business Intelligence desenvolvido no âmbito da formação em Power BI Analyst[span_1](start_span)[span_1](end_span). Contém a estruturação de fontes de dados, transformações via Power Query, construção de relatórios analíticos interativos e a implementação de páginas customizadas com visuais avançados de mapas e segmentação de mercado.
+Repositório oficial para versionamento, modelagem e entrega do projeto prático de Business Intelligence desenvolvido no âmbito da formação em Power BI Analyst[span_0](start_span)[span_0](end_span). Contém a estruturação de fontes de dados, transformações via Power Query, construção de relatórios analíticos interativos e a implementação de páginas customizadas com visuais avançados de mapas e segmentação de mercado.
 
 ---
 
 ## Tecnologias Utilizadas
-* **Ferramenta Principal**: Microsoft Power BI (Power Query, Modelagem de Dados, DAX e Data Visualization)[span_2](start_span)[span_2](end_span).
-* **Controle de Versão**: Git e GitHub[span_3](start_span)[span_3](end_span).
+* **Ferramenta Principal**: Microsoft Power BI (Power Query, Modelagem de Dados, DAX e Data Visualization)[span_1](start_span)[span_1](end_span).
+* **Controle de Versão**: Git e GitHub[span_2](start_span)[span_2](end_span).
 
 ---
 
@@ -41,20 +41,20 @@ Repositório oficial para versionamento, modelagem e entrega do projeto prático
 
 ## Créditos e Referências
 * Projeto original desenvolvido por [julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst).
-* Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO)[span_4](start_span)[span_4](end_span).
+* Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO)[span_3](start_span)[span_3](end_span).
 
 ---
 
 ## Autor
 
-**Rafael Ornelas Tozato**[span_5](start_span)[span_5](end_span)
+**Rafael Ornelas Tozato**[span_4](start_span)[span_4](end_span)
 
-Engenharia Química | Garantia da Qualidade | Governança 4.0[span_6](start_span)[span_6](end_span)
+Engenharia Química | Garantia da Qualidade | Governança 4.0[span_5](start_span)[span_5](end_span)
 
 ### Contato
 
-- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)[span_7](start_span)[span_7](end_span)
-- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)[span_8](start_span)[span_8](end_span)
-- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)[span_9](start_span)[span_9](end_span)
-- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)[span_10](start_span)[span_10](end_span)
-- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)[span_11](start_span)[span_11](end_span)
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)[span_6](start_span)[span_6](end_span)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)[span_7](start_span)[span_7](end_span)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)[span_8](start_span)[span_8](end_span)
+- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)[span_9](start_span)[span_9](end_span)
+- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)[span_10](start_span)[span_10](end_span)
