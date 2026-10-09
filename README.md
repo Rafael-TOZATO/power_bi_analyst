@@ -40,8 +40,8 @@ Repositório oficial para versionamento, modelagem e entrega do projeto prático
 ---
 
 ## Créditos e Referências
-* Projeto original desenvolvido por [julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst).
-* Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO).
+* Projeto original desenvolvido por [julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst)
+* Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO)
 
 ---
 
