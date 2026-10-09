@@ -18,13 +18,13 @@
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
 ## Descrição do Projeto
-Repositório oficial para versionamento, modelagem e entrega do projeto prático de Business Intelligence desenvolvido no âmbito da formação em Power BI Analyst[span_1](start_span)[span_1](end_span). Contém a estruturação de fontes de dados, transformações via Power Query, construção de relatórios analíticos interativos e a implementação de páginas customizadas com visuais avançados de mapas e segmentação de mercado.
+Repositório oficial para versionamento, modelagem e entrega do projeto prático de Business Intelligence desenvolvido no âmbito da formação em Power BI Analyst. Contém a estruturação de fontes de dados, transformações via Power Query, construção de relatórios analíticos interativos e a implementação de páginas customizadas com visuais avançados de mapas e segmentação de mercado.
 
 ---
 
 ## Tecnologias Utilizadas
-* **Ferramenta Principal**: Microsoft Power BI (Power Query, Modelagem de Dados, DAX e Data Visualization)[span_2](start_span)[span_2](end_span).
-* **Controle de Versão**: Git e GitHub[span_3](start_span)[span_3](end_span).
+* **Ferramenta Principal**: Microsoft Power BI (Power Query, Modelagem de Dados, DAX e Data Visualization).
+* **Controle de Versão**: Git e GitHub.
 
 ---
 
@@ -41,15 +41,15 @@ Repositório oficial para versionamento, modelagem e entrega do projeto prático
 
 ## Créditos e Referências
 * Projeto original desenvolvido por [julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst).
-* Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO)[span_4](start_span)[span_4](end_span).
+* Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO).
 
 ---
 
 ## Autor
 
-**Rafael Ornelas Tozato**[span_5](start_span)[span_5](end_span)
+**Rafael Ornelas Tozato**
 
-Engenharia Química | Garantia da Qualidade | Governança 4.0[span_6](start_span)[span_6](end_span)
+Engenharia Química | Garantia da Qualidade | Governança 4.0
 
  ## 📬 Contatos
 
