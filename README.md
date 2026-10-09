@@ -51,10 +51,10 @@ Repositório oficial para versionamento, modelagem e entrega do projeto prático
 
 Engenharia Química | Garantia da Qualidade | Governança 4.0[span_6](start_span)[span_6](end_span)
 
-### Contato
+ ## 📬 Contatos
 
-- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)[span_7](start_span)[span_7](end_span)
-- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)[span_8](start_span)[span_8](end_span)
-- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)[span_9](start_span)[span_9](end_span)
-- Portfólio PWA: [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)[span_10](start_span)[span_10](end_span)
-- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)[span_11](start_span)[span_11](end_span)
+  - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+  - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+  - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+  - 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+  - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
