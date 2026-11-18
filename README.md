@@ -53,12 +53,10 @@ Este repositório adota controles automatizados de Governança 4.0 para assegura
 - Projeto original desenvolvido por [julianazanelatto](https://github.com/julianazanelatto/power_bi_analyst)
 - Projeto customizado e implementado por [Rafael Ornelas Tozato](https://github.com/Rafael-TOZATO)
 
----
-
 ## 📬 CONTATOS E PERFIS
 
 💻 **PROJETOS E PORTFÓLIOS**
-* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* Ecossistema de Aplicativo: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 * H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
 🐙 **CÓDIGOS E REPOSITÓRIOS**
